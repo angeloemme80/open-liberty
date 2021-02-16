@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liberty-plugin-config>
+    <activeBuildProfiles>
+        <profileId>default</profileId>
+    </activeBuildProfiles>
+    <installDirectory>C:\Esperimenti\sample-getting-started\target\liberty\wlp</installDirectory>
+    <serverDirectory>C:\Esperimenti\sample-getting-started\target\liberty\wlp\usr\servers\sampleAppServer</serverDirectory>
+    <userDirectory>C:\Esperimenti\sample-getting-started\target\liberty\wlp\usr</userDirectory>
+    <serverOutputDirectory>C:\Esperimenti\sample-getting-started\target\liberty\wlp\usr\servers\sampleAppServer</serverOutputDirectory>
+    <serverName>sampleAppServer</serverName>
+    <configDirectory>C:\Esperimenti\sample-getting-started\src\main\liberty\config</configDirectory>
+    <configFile>C:\Esperimenti\sample-getting-started\src\main\liberty\config\server.xml</configFile>
+    <appsDirectory>apps</appsDirectory>
+    <looseApplication>true</looseApplication>
+    <stripVersion>false</stripVersion>
+    <installAppPackages>project</installAppPackages>
+    <applicationFilename>io.openliberty.sample.getting.started.war.xml</applicationFilename>
+    <assemblyArtifact>
+        <groupId>io.openliberty</groupId>
+        <artifactId>openliberty-kernel</artifactId>
+        <version>21.0.0.1</version>
+        <type>zip</type>
+    </assemblyArtifact>
+    <assemblyArchive>C:\Users\AngeloMassaro\.m2\repository\io\openliberty\openliberty-kernel\21.0.0.1\openliberty-kernel-21.0.0.1.zip</assemblyArchive>
+    <assemblyInstallDirectory>C:\Esperimenti\sample-getting-started\target\liberty</assemblyInstallDirectory>
+    <refresh>false</refresh>
+    <installAppsConfigDropins>C:\Esperimenti\sample-getting-started\target\liberty\wlp\usr\servers\sampleAppServer\configDropins\defaults\install_apps_configuration_1491924271.xml</installAppsConfigDropins>
+    <projectType>war</projectType>
+</liberty-plugin-config>
