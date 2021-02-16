@@ -25,4 +25,16 @@ public class Padre {
                 .build();
 	}
 	
+	@GET
+	@Path("/secondo")
+	@Produces(MediaType.APPLICATION_JSON)
+	public JsonObject secondo() {
+		JsonObjectBuilder builder = Json.createObjectBuilder();
+		return builder.add("nome", "Angela")
+				.add("cognome", "Russo")
+				.add("eta", 41)
+				.add("timestamp", System.currentTimeMillis())
+                .build();
+	}
+	
 }

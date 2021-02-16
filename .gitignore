@@ -17,4 +17,5 @@ MANIFEST.MF
 
 # Zip files
 *.zip
+
 /target/
