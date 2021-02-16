@@ -13,6 +13,9 @@ package io.openliberty.sample.system;
 
 import javax.enterprise.context.RequestScoped;
 import javax.inject.Inject;
+import javax.json.Json;
+import javax.json.JsonObject;
+import javax.json.JsonObjectBuilder;
 
 import org.eclipse.microprofile.metrics.annotation.Counted;
 import org.eclipse.microprofile.metrics.annotation.Timed;
@@ -42,4 +45,17 @@ public class SystemResource {
 					.build();
 		}
 	}
+	
+	@GET
+	@Path("/mioservizio")
+	@Produces(MediaType.APPLICATION_JSON)
+	@Timed(name = "mioServizio", description = "mioServizio description @Timed")
+	@Counted(absolute = true, description = "mioServizio description @Counted")
+	public JsonObject mioServizio() {
+		JsonObjectBuilder builder = Json.createObjectBuilder();
+		return builder.add("messaggio", "ERROR: mioServizio è in manutenzione!.")
+				.add("timestamp", System.currentTimeMillis())
+                .build();
+	}
+	
 }

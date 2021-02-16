@@ -19,4 +19,19 @@
   <keyStore id="defaultKeyStore" password="OpenLiberty" />
 
   <webApplication location="io.openliberty.sample.getting.started.war" contextRoot="${app.context.root}"/>
+  
+  
+  <cors domain="/"
+    allowedOrigins="*"
+    allowedMethods="GET"
+    allowCredentials="true"
+    exposeHeaders="MyHeader"/>
+    
+    <cors domain="/configurations/preflight"
+    allowedOrigins="*"
+    allowedMethods="OPTIONS, DELETE"
+    allowCredentials="true"
+    allowedHeaders="MyOwnHeader1, MyOwnHeader2"
+    maxAge="10"/>
+    
 </server>
