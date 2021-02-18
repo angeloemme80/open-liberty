@@ -1,7 +1,11 @@
-FROM openliberty/open-liberty
+FROM maven
+#FROM openliberty/open-liberty
+
 #COPY --chown=1001:0 src/main/liberty/config/ /config/
 #COPY --chown=1001:0 target/*.war /config/apps/
 #RUN configure.sh
-RUN yum install maven && chgrp -R 0 /var/log/rhsm && chmod -R g=u /var/log/rhsm
+
+#RUN yum install maven && chgrp -R 0 /var/log/rhsm && chmod -R g=u /var/log/rhsm
+
 USER 1001
 CMD ["mvn","liberty:run"]
