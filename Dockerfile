@@ -25,4 +25,5 @@ COPY --chown=1001:0 src/main/liberty/config/server.xml /config/
 COPY --chown=1001:0 /resources/CustomConfigSource.json /opt/ol/wlp/output/defaultServer/resources/
 #COPY --chown=1001:0 target/io.openliberty.sample.getting.started.war /config/dropins/
 COPY --chown=1001:0 target/io.openliberty.sample.getting.started.war /config/apps/
+
 USER 1001
