@@ -1,1 +1,8 @@
-io/openliberty/sample/config/CustomConfigSource$1.class
+io\openliberty\sample\system\SystemHealth.class
+io\openliberty\sample\system\SystemConfig.class
+io\openliberty\sample\system\SystemResource.class
+io\openliberty\sample\config\CustomConfigSource$1.class
+io\openliberty\sample\config\CustomConfigSource.class
+io\openliberty\sample\config\ConfigResource.class
+io\openliberty\sample\SampleApplication.class
+it\angelomassaro\Padre.class

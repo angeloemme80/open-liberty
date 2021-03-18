@@ -1,3 +1,3 @@
-#Sun Feb 21 12:46:43 CET 2021
+#Thu Mar 18 16:30:45 CET 2021
 lib/features/com.ibm.websphere.appserver.javax.cdi-2.0.mf=36dd8ca340ca30daa67bcb215b5d2e4a
 dev/api/spec/com.ibm.websphere.javaee.cdi.2.0_1.0.49.jar=b2827ccdcb038e1ea76ad6a04dd88652
