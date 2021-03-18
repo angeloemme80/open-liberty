@@ -1,7 +1,5 @@
 package it.angelomassaro;
 
-import java.io.Serializable;
-
 import javax.enterprise.context.RequestScoped;
 import javax.inject.Inject;
 import javax.json.Json;
@@ -29,7 +27,9 @@ public class Padre {
     private static final int    PERMITS_CONSUMED 	= 20;
 	private Logger logger = LoggerFactory.getLogger(Padre.class);
 	
-	
+	/*
+	 * Esempio di come limitare l'utilizzo di metodi e servizi attraverso l'oggetto RateLimiter
+	 */
     
 	@GET
 	@Path("/primo")
