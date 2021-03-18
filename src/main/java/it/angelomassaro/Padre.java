@@ -24,7 +24,6 @@ public class Padre {
 	@Inject
 	SystemConfig systemConfig;
 	
-    private static final int    PERMITS_CONSUMED 	= 20;
 	private Logger logger = LoggerFactory.getLogger(Padre.class);
 	
 	/*
