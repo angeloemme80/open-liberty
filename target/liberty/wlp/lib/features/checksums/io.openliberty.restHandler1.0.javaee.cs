@@ -1,3 +1,3 @@
-#Fri Jan 22 18:36:12 CET 2021
-lib/features/io.openliberty.restHandler1.0.javaee.mf=fe157204d814c8fd8c2c3bb408719126
-lib/com.ibm.ws.rest.handler_1.0.48.jar=3da1f4ecc8ff4339e4121faf47ee9b01
+#Sun Feb 21 12:47:06 CET 2021
+lib/com.ibm.ws.rest.handler_1.0.49.jar=92a98279bc1be601b4301e36e82738d7
+lib/features/io.openliberty.restHandler1.0.javaee.mf=f5f5391f535dfd9a3f4c443de9e9f119

@@ -1,7 +1,7 @@
-#Wed Jan 13 17:07:31 GMT 2021
+#Tue Feb 09 13:14:58 GMT 2021
 lib/platform/defaultLogging-1.0.mf=5dca00ad3a1c72fd06670dc28717f34f
-lib/com.ibm.ws.logging_1.0.48.jar=5c48153884d3c0d7a6d7619e778b25bb
-dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.logging_1.1-javadoc.zip=c06bfc2de92bd182bbfb55dd857d5a6d
-dev/spi/ibm/com.ibm.websphere.appserver.spi.logging_1.1.48.jar=43a55790db82808a145072f0dfc16e84
-lib/com.ibm.ws.collector.manager_1.0.48.jar=f08b17ff9978b61343e9f167728ee586
-lib/com.ibm.ws.logging.osgi_1.0.48.jar=7d024f969312669a1e29cda2db939357
+lib/com.ibm.ws.logging_1.0.49.jar=c2521b2eb2a9a6a9fa8285e0eadf5c2f
+dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.logging_1.1-javadoc.zip=5e0b1d51b4de24be4e701300b4de5e08
+lib/com.ibm.ws.collector.manager_1.0.49.jar=e65e53604f97035d0515a0b3ad80cc0c
+dev/spi/ibm/com.ibm.websphere.appserver.spi.logging_1.1.49.jar=83797acc8145a384ce4fc4e1c5c5d20a
+lib/com.ibm.ws.logging.osgi_1.0.49.jar=3c0f8ce5a2d2abba29375b12cee2bb3c

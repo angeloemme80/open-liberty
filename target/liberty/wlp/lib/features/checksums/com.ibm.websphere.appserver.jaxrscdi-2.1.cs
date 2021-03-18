@@ -1,3 +1,3 @@
-#Fri Jan 22 18:36:09 CET 2021
-lib/com.ibm.ws.jaxrs.2.0.cdi_1.0.48.jar=7859f2695eb1d0c92ad1551b77053e50
-lib/features/com.ibm.websphere.appserver.jaxrscdi-2.1.mf=1be7d83b2467b719b3553ab8b64c5c57
+#Sun Feb 21 12:47:02 CET 2021
+lib/com.ibm.ws.jaxrs.2.0.cdi_1.0.49.jar=fe7b66cc4cb8abf9efa54c1d91794079
+lib/features/com.ibm.websphere.appserver.jaxrscdi-2.1.mf=863f959d288e7d0da671e3da29694794

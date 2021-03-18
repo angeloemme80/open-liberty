@@ -1,3 +1,3 @@
-#Fri Jan 22 18:35:51 CET 2021
-lib/features/com.ibm.websphere.appserver.appLifecycle-1.0.mf=333b221321330ad9e737a17dd72156c0
-lib/com.ibm.ws.app.manager.lifecycle_1.0.48.jar=64676542a4ae59cb632b2b4ae2a21e17
+#Sun Feb 21 12:46:43 CET 2021
+lib/com.ibm.ws.app.manager.lifecycle_1.0.49.jar=2ecb642444e829c45e24307de8e7c003
+lib/features/com.ibm.websphere.appserver.appLifecycle-1.0.mf=9bbfc41da73e2bceb5ff77f801ba8dde

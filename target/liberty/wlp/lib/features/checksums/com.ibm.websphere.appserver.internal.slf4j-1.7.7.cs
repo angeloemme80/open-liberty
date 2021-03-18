@@ -1,4 +1,4 @@
-#Fri Jan 22 18:35:54 CET 2021
-lib/features/com.ibm.websphere.appserver.internal.slf4j-1.7.7.mf=07e39cf842d91d5cd3fac2d73266043c
-lib/com.ibm.ws.org.slf4j.jdk14.1.7.7_1.0.48.jar=ff340bca514ae51a47dbfbb8cd9a0cab
-lib/com.ibm.ws.org.slf4j.api.1.7.7_1.0.48.jar=3a6e924444a5a826b8f9280c1891b0c0
+#Sun Feb 21 12:46:47 CET 2021
+lib/features/com.ibm.websphere.appserver.internal.slf4j-1.7.7.mf=6a3b92c2dad98fae5e5260c7ce7526f9
+lib/com.ibm.ws.org.slf4j.jdk14.1.7.7_1.0.49.jar=181846487b8d5a7e590beb9918aed65c
+lib/com.ibm.ws.org.slf4j.api.1.7.7_1.0.49.jar=29a764e171f8584bf8271cd283c0ca93

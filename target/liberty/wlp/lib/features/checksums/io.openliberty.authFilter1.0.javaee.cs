@@ -1,3 +1,3 @@
-#Fri Jan 22 18:36:12 CET 2021
-lib/com.ibm.ws.security.authentication.filter_1.0.48.jar=ef035d348bcf1b539d0600242afd4360
-lib/features/io.openliberty.authFilter1.0.javaee.mf=af603c2b1ce490a5d3f03b80ae2375e2
+#Sun Feb 21 12:47:05 CET 2021
+lib/features/io.openliberty.authFilter1.0.javaee.mf=3623e92e8709af6096f12bd2a9b1ed9f
+lib/com.ibm.ws.security.authentication.filter_1.0.49.jar=ffa0d194da7033df486cadccd8d4ba93

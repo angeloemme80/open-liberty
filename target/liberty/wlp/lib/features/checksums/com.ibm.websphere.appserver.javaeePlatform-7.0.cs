@@ -1,5 +1,5 @@
-#Fri Jan 22 18:35:53 CET 2021
-lib/features/com.ibm.websphere.appserver.javaeePlatform-7.0.mf=1aba4e6554f39bf8353f92d7555127e1
-lib/com.ibm.ws.javaee.version_1.0.48.jar=9477be39c25c853c4f5961c93944f8af
-lib/com.ibm.ws.javaee.platform.v7_1.0.48.jar=bf0d2ece733e31d9c119137f06925a1f
-lib/com.ibm.ws.javaee.platform.defaultresource_1.0.48.jar=a73de660892d1c14f1687a79445fd8df
+#Sun Feb 21 12:46:45 CET 2021
+lib/com.ibm.ws.javaee.version_1.0.49.jar=aa20b567971d71b754b3f066e361d4d7
+lib/com.ibm.ws.javaee.platform.v7_1.0.49.jar=fb81c6638ff004e1ada5832de4ea4a64
+lib/features/com.ibm.websphere.appserver.javaeePlatform-7.0.mf=416dd5eb7c3e159006b7206a7ab0b7fc
+lib/com.ibm.ws.javaee.platform.defaultresource_1.0.49.jar=6ea65347bed417cf89cc946a2c007413

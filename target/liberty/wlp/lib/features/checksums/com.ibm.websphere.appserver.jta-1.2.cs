@@ -1,5 +1,5 @@
-#Fri Jan 22 18:35:59 CET 2021
-dev/api/spec/com.ibm.websphere.javaee.transaction.1.2_1.0.48.jar=dd30634bb4d5e4b4adfba12905113336
-lib/features/com.ibm.websphere.appserver.jta-1.2.mf=9035548653db339bfc779d9967dbee25
-dev/api/ibm/com.ibm.websphere.appserver.api.transaction_1.1.48.jar=6be2e3c8cd9360e3c936d5e32406e441
-dev/api/ibm/javadoc/com.ibm.websphere.appserver.api.transaction_1.1-javadoc.zip=e0cd6687440e92bdd40bd5820fa74987
+#Sun Feb 21 12:46:51 CET 2021
+dev/api/ibm/com.ibm.websphere.appserver.api.transaction_1.1.49.jar=9ef6efc7d038357b592770f1f7f3744c
+lib/features/com.ibm.websphere.appserver.jta-1.2.mf=cbc1ff05f2c38a8226253610b83554eb
+dev/api/spec/com.ibm.websphere.javaee.transaction.1.2_1.0.49.jar=75a29d2566651d73a404fa0b1512feb1
+dev/api/ibm/javadoc/com.ibm.websphere.appserver.api.transaction_1.1-javadoc.zip=6d660e7f6c506cefbd2c648a88343142

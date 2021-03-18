@@ -1,9 +1,9 @@
-#Fri Jan 22 18:35:50 CET 2021
-lib/com.ibm.ws.javaee.dd.common_1.1.48.jar=38a25c5a9a79f8b71eb8db6c343a700b
-lib/com.ibm.ws.javaee.dd_1.0.48.jar=351f7cf7c3f0c1e9121f48211bb44fac
-dev/spi/ibm/com.ibm.websphere.appserver.spi.javaeedd_1.4.48.jar=c3efc5add87917ebdb5a13f8daf33a20
-lib/com.ibm.ws.javaee.ddmodel_1.0.48.jar=45fa8a9360c74c7bbfeab52ffac0f351
-lib/features/com.ibm.websphere.appserver.javaeedd-1.0.mf=85e7d0c89d128621420c4256ef772943
-dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.javaeedd_1.4-javadoc.zip=1162dad9678490d67f6d1724078de52b
-lib/com.ibm.ws.javaee.version_1.0.48.jar=9477be39c25c853c4f5961c93944f8af
-lib/com.ibm.ws.javaee.dd.ejb_1.1.48.jar=42dc27124e07e5c476c0fd9415febf4d
+#Sun Feb 21 12:46:42 CET 2021
+lib/com.ibm.ws.javaee.version_1.0.49.jar=aa20b567971d71b754b3f066e361d4d7
+lib/com.ibm.ws.javaee.dd.ejb_1.1.49.jar=bd9a91d1ad4b44885cad1e091d49e559
+lib/features/com.ibm.websphere.appserver.javaeedd-1.0.mf=5692d55ab01c0fbde7af1f14f2621a57
+lib/com.ibm.ws.javaee.dd.common_1.1.49.jar=b4bfc1f0c9032acfddb56c57100b9ce6
+dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.javaeedd_1.4-javadoc.zip=7f0f63b1487c28d18a8bf43a8d3378da
+lib/com.ibm.ws.javaee.dd_1.0.49.jar=5b2470399615eb332bbf12d21169fb69
+dev/spi/ibm/com.ibm.websphere.appserver.spi.javaeedd_1.4.49.jar=0315cb501a94e7d583fc24b67e9d1855
+lib/com.ibm.ws.javaee.ddmodel_1.0.49.jar=a61f1a1d5ef05f0c608cedf10ef5d2d8

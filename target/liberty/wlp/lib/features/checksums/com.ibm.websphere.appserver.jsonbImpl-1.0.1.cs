@@ -1,4 +1,4 @@
-#Fri Jan 22 18:36:05 CET 2021
-lib/com.ibm.ws.org.eclipse.yasson.1.0_1.0.48.jar=a6b928147d22bbb7610b33cbb59b6983
-dev/api/spec/com.ibm.websphere.javaee.jsonb.1.0_1.0.48.jar=fa38b400e0eac843600f8d5321658b6f
-lib/features/com.ibm.websphere.appserver.jsonbImpl-1.0.1.mf=825d052b925a9a49f4b5d7166246c2df
+#Sun Feb 21 12:46:58 CET 2021
+lib/com.ibm.ws.org.eclipse.yasson.1.0_1.0.49.jar=5cce9f2bcc194054f5b8821d68bed29c
+dev/api/spec/com.ibm.websphere.javaee.jsonb.1.0_1.0.49.jar=4ce1635eeefefc11691b43b327605bba
+lib/features/com.ibm.websphere.appserver.jsonbImpl-1.0.1.mf=c5b2631bd50f4c196eb28dec4ed41a02

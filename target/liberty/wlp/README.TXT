@@ -1,4 +1,4 @@
-Open Liberty Version 21.0.0.1 - (21.0.0.1-202101131521)
+Open Liberty Version 21.0.0.2 - (21.0.0.2-202102091118)
 
 
 I. CONTROLLING OPEN LIBERTY

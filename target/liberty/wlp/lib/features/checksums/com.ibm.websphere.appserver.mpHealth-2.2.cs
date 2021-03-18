@@ -1,5 +1,5 @@
-#Fri Jan 22 18:36:04 CET 2021
-lib/com.ibm.ws.microprofile.health.2.0_1.0.48.jar=68edbea8021cf47231200a93ec0441a7
-lib/com.ibm.ws.org.joda.time.1.6.2_1.0.48.jar=17b209b1672d0c6a947aa09991b11930
-lib/com.ibm.websphere.jsonsupport_1.0.48.jar=d640d561d4f9a9f0e01c57e577ad07c4
-lib/features/com.ibm.websphere.appserver.mpHealth-2.2.mf=eeb058375576e31079b32e3de9b8fb90
+#Sun Feb 21 12:46:57 CET 2021
+lib/com.ibm.websphere.jsonsupport_1.0.49.jar=d972a20f0373045b3b62693f578a30d1
+lib/com.ibm.ws.microprofile.health.2.0_1.0.49.jar=f8ab72b67365b08a99e868bbde31154c
+lib/com.ibm.ws.org.joda.time.1.6.2_1.0.49.jar=ca40998139a13433be4c1254afa60565
+lib/features/com.ibm.websphere.appserver.mpHealth-2.2.mf=98e2c62000c27f41be20bd1d1675d530

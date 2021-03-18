@@ -1,3 +1,3 @@
-#Fri Jan 22 18:35:53 CET 2021
-lib/features/com.ibm.websphere.appserver.injection-1.0.mf=5dd5509a9e707970d9f3ef85da2ba6fd
-lib/com.ibm.ws.injection_1.0.48.jar=e148baaeb83c3e97d79d53bd0a1bbc98
+#Sun Feb 21 12:46:45 CET 2021
+lib/features/com.ibm.websphere.appserver.injection-1.0.mf=f9dc86be1e0e27f5d0c4316f85e56e09
+lib/com.ibm.ws.injection_1.0.49.jar=ac2b3cc2eaf5612ef85074e08917c8e7

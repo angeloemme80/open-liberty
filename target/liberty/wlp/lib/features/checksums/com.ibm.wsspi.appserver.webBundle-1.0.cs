@@ -1,5 +1,5 @@
-#Fri Jan 22 18:35:58 CET 2021
-dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.wab.configure_1.0-javadoc.zip=4b1a72e3be4a04fc6520d4828e50685a
-lib/features/com.ibm.wsspi.appserver.webBundle-1.0.mf=2b4717a76dcf8909d8088691fa99497d
-dev/spi/ibm/com.ibm.websphere.appserver.spi.wab.configure_1.0.48.jar=9e1025f9054a4278279ba87e892e0ed3
-lib/com.ibm.ws.eba.wab.integrator_1.0.48.jar=270fa5559660cafdef5aafa70038b890
+#Sun Feb 21 12:46:51 CET 2021
+dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.wab.configure_1.0-javadoc.zip=0db5193dc9d8a3376a26187454080a85
+lib/features/com.ibm.wsspi.appserver.webBundle-1.0.mf=6082797372713e3f1fadf785871b3cee
+lib/com.ibm.ws.eba.wab.integrator_1.0.49.jar=42b0fc892ecdcf98b473a194cc0ab287
+dev/spi/ibm/com.ibm.websphere.appserver.spi.wab.configure_1.0.49.jar=d19e1b37c50b1777a62eed564bdef946

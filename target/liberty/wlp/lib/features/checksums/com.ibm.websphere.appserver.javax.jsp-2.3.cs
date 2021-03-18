@@ -1,3 +1,3 @@
-#Fri Jan 22 18:36:00 CET 2021
-lib/features/com.ibm.websphere.appserver.javax.jsp-2.3.mf=aeb648e5cda244d364a4dcfd054fb29b
-dev/api/spec/com.ibm.websphere.javaee.jsp.2.3_1.0.48.jar=9ba25ce71bd8698eb205735123ff847f
+#Sun Feb 21 12:46:52 CET 2021
+dev/api/spec/com.ibm.websphere.javaee.jsp.2.3_1.0.49.jar=4fa7e3a28d635dde59fe4b6e666f5f12
+lib/features/com.ibm.websphere.appserver.javax.jsp-2.3.mf=a393768e83e9ab5d1ba281576648cdcb

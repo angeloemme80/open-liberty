@@ -1,10 +1,10 @@
-#Fri Jan 22 18:36:06 CET 2021
-dev/api/spec/com.ibm.websphere.org.osgi.service.http_1.0.48.jar=c5ffc5705384048825f6f6e11ac63d57
-lib/com.ibm.ws.org.apache.cxf.cxf.rt.transports.http.3.2_1.0.48.jar=5a132477497cdf73f6f14ecfd3b1d28f
-lib/com.ibm.ws.org.apache.xml.resolver.1.2_1.0.48.jar=192d8e4d81bab7f28bc59036bce422e9
-lib/com.ibm.ws.org.apache.ws.xmlschema.core.2.0.3_1.0.48.jar=c5e3e9c343a54e25e257100869d0d38d
-lib/com.ibm.ws.org.apache.cxf.cxf.core.3.2_1.0.48.jar=53dbdc54101a72ab9017dcb3fa59134e
-lib/com.ibm.ws.org.apache.neethi.3.0.2_1.0.48.jar=0f1397417dbadf177cd6fc36d2bd5599
-lib/com.ibm.ws.org.apache.cxf.cxf.rt.transports.http.hc.3.2_1.0.48.jar=f694e9d0280422395eed19953569d896
-lib/com.ibm.ws.cxf.client_1.0.48.jar=26505a6c114f821864d242dd90cda320
-lib/features/com.ibm.websphere.appserver.internal.cxf.common-3.2.mf=96e5cfb8329b5859e7a5c54de0cf5feb
+#Sun Feb 21 12:47:00 CET 2021
+lib/com.ibm.ws.org.apache.cxf.cxf.rt.transports.http.3.2_1.0.49.jar=d0b9705b115ea3c5ed4c3d089c3e9c49
+lib/com.ibm.ws.org.apache.xml.resolver.1.2_1.0.49.jar=0fcfe126644dbe6094ee8fd36328f266
+lib/com.ibm.ws.org.apache.ws.xmlschema.core.2.0.3_1.0.49.jar=cfe9bdd9b576e35a98e8f8569d37bdde
+lib/com.ibm.ws.org.apache.cxf.cxf.core.3.2_1.0.49.jar=466fa9e761a6f68ce0f4a262c8d8a381
+lib/com.ibm.ws.org.apache.neethi.3.0.2_1.0.49.jar=0a7431afa0ea42794c716e3f700faa21
+lib/com.ibm.ws.org.apache.cxf.cxf.rt.transports.http.hc.3.2_1.0.49.jar=2444660c592a9bf720c2f91f498d4b80
+lib/com.ibm.ws.cxf.client_1.0.49.jar=42f5134ceb74c22c33b95021b8171ed1
+lib/features/com.ibm.websphere.appserver.internal.cxf.common-3.2.mf=5558cdf03400d42231030660ca62ce74
+dev/api/spec/com.ibm.websphere.org.osgi.service.http_1.0.49.jar=41838834f091c0529de37eb2ef1340e1

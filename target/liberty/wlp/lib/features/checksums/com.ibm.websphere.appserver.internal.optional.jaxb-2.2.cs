@@ -1,6 +1,6 @@
-#Fri Jan 22 18:36:05 CET 2021
-lib/com.ibm.ws.org.apache.geronimo.osgi.registry.1.1_1.0.48.jar=953b0d4c2dfdd88624ae52ef1d9f7928
-lib/com.ibm.ws.jaxb.tools.2.2.10_1.0.48.jar=733952c7249cc02c09b23ac7bd5477aa
-dev/api/spec/com.ibm.websphere.javaee.jaxb.2.2_1.0.48.jar=6faa4c877e7d3d54a0ba30bd0df29785
-dev/api/spec/com.ibm.websphere.javaee.activation.1.1_1.0.48.jar=d011effa16e1e1fe96fd8a733243235c
-lib/features/com.ibm.websphere.appserver.internal.optional.jaxb-2.2.mf=05d49ede577eb1b0293f3cf732e1f19a
+#Sun Feb 21 12:46:58 CET 2021
+dev/api/spec/com.ibm.websphere.javaee.activation.1.1_1.0.49.jar=b7bbcddc1806d49c60613cd41ccdf4cb
+lib/com.ibm.ws.org.apache.geronimo.osgi.registry.1.1_1.0.49.jar=a3b6754e5d5a9efeaa4b0a47b8ab4891
+lib/com.ibm.ws.jaxb.tools.2.2.10_1.0.49.jar=16ccb08e714bcbf7547b5ff51af9678c
+dev/api/spec/com.ibm.websphere.javaee.jaxb.2.2_1.0.49.jar=a9b038c23211ad745b1087b1aa3fec00
+lib/features/com.ibm.websphere.appserver.internal.optional.jaxb-2.2.mf=6ca6ae8afa799d5a3c52a5a645f1dfec

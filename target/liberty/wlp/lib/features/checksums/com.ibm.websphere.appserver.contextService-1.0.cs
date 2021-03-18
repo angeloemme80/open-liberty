@@ -1,6 +1,6 @@
-#Fri Jan 22 18:36:01 CET 2021
-lib/com.ibm.ws.javaee.metadata.context_1.0.48.jar=101c4e06ceb36f8c457729bad49a9c0c
-lib/com.ibm.ws.context_1.0.48.jar=0c098523a8afd30d4ccc104ada214458
-lib/com.ibm.ws.resource_1.0.48.jar=16ead497c7c2bbb01083c0a58ff44c56
-lib/features/com.ibm.websphere.appserver.contextService-1.0.mf=99e61db2e2234cf46945f3ace1b6c4f9
-lib/com.ibm.ws.javaee.version_1.0.48.jar=9477be39c25c853c4f5961c93944f8af
+#Sun Feb 21 12:46:54 CET 2021
+lib/com.ibm.ws.javaee.version_1.0.49.jar=aa20b567971d71b754b3f066e361d4d7
+lib/features/com.ibm.websphere.appserver.contextService-1.0.mf=1e2b613aa0da265ed43db47bd777feea
+lib/com.ibm.ws.javaee.metadata.context_1.0.49.jar=11e9b1a71a7c0110c5d26b3ed986373d
+lib/com.ibm.ws.context_1.0.49.jar=93aaa5d509896cfa3d3fd8e738bc3020
+lib/com.ibm.ws.resource_1.0.49.jar=8dbb2b45ee093a1d1f5b0617b78cc1ff

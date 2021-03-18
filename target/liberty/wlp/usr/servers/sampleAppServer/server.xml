@@ -8,6 +8,7 @@
   </featureManager>
 
   <applicationManager autoExpand="true" />
+  <applicationMonitor dropinsEnabled="false"/>
 
   <mpMetrics authentication="false" />
 

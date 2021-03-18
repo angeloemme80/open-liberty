@@ -1,5 +1,5 @@
-#Fri Jan 22 18:36:05 CET 2021
-lib/com.ibm.ws.org.apache.commons.logging.1.0.3_1.0.48.jar=289bccf1294e1b0c2ce265131233fb2a
-lib/features/com.ibm.websphere.appserver.httpcommons-1.0.mf=cb5973013bf2f61ecf11a2d028ad5fe7
-lib/com.ibm.ws.org.apache.commons.codec_1.0.48.jar=33e9d488982b7664c3b9acc4d2696647
-lib/com.ibm.ws.org.apache.httpcomponents_1.0.48.jar=b0a8dddb08e77322004194c56e83707a
+#Sun Feb 21 12:46:59 CET 2021
+lib/com.ibm.ws.org.apache.commons.codec_1.0.49.jar=346fc761293bda7fa298be0398fa8d09
+lib/com.ibm.ws.org.apache.httpcomponents_1.0.49.jar=a14d33cdc41aaafa25e3a0072ce9569e
+lib/features/com.ibm.websphere.appserver.httpcommons-1.0.mf=7aafc244812e0b88b8f512763920bebc
+lib/com.ibm.ws.org.apache.commons.logging.1.0.3_1.0.49.jar=cae424d2145367e833b57cca2eed562e

@@ -17,6 +17,8 @@ import javax.inject.Provider;
 
 import org.eclipse.microprofile.config.inject.ConfigProperty;
 
+import com.google.common.util.concurrent.RateLimiter;
+
 @ApplicationScoped
 public class SystemConfig {
 
@@ -28,4 +30,8 @@ public class SystemConfig {
   public boolean isInMaintenance() {
     return inMaintenance.get();
   }
+  
+  public static final Double PERMITS_PER_SECONDS = 1.0;
+  public static RateLimiter limiter = RateLimiter.create(PERMITS_PER_SECONDS);
+  
 }

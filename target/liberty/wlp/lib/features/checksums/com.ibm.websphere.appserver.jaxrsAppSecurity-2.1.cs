@@ -1,3 +1,3 @@
-#Fri Jan 22 18:36:10 CET 2021
-lib/com.ibm.ws.jaxrs.2.0.security_1.0.48.jar=0ccc59a8b5fa67dc94d8f33b574993f8
-lib/features/com.ibm.websphere.appserver.jaxrsAppSecurity-2.1.mf=83c868602f887332a2a4660ca2bf3f56
+#Sun Feb 21 12:47:04 CET 2021
+lib/com.ibm.ws.jaxrs.2.0.security_1.0.49.jar=c1f117bcedc39b0d57df68cc67773346
+lib/features/com.ibm.websphere.appserver.jaxrsAppSecurity-2.1.mf=fa2c73a715989f59a793e6460714d5bb

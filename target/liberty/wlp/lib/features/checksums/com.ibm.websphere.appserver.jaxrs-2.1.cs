@@ -1,2 +1,2 @@
-#Fri Jan 22 18:36:09 CET 2021
-lib/features/com.ibm.websphere.appserver.jaxrs-2.1.mf=d7fab446e718dd2e6930a5cde60a487a
+#Sun Feb 21 12:47:02 CET 2021
+lib/features/com.ibm.websphere.appserver.jaxrs-2.1.mf=82f41212010b81836cec89b2e8094bda
