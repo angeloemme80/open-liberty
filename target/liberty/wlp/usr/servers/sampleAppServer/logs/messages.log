@@ -672,3 +672,43 @@ process = 7436@LAPTOP-HOOMLNRG
 [18/03/21 16.17.15:949 CET] 00000c1d SystemOut                                                    O DENTRO IL METODO DI BISINESS: 0.918427
 [18/03/21 16.17.16:950 CET] 00000c8a SystemOut                                                    O DENTRO IL METODO DI BISINESS: 1.213346
 [18/03/21 16.17.17:949 CET] 00000c88 SystemOut                                                    O DENTRO IL METODO DI BISINESS: 1.453377
+[18/03/21 16.21.38:400 CET] 00000cf3 SystemOut                                                    O DENTRO IL METODO DI BISINESS: 0.0
+[18/03/21 16.27.17:680 CET] 00000d5f com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Applicazione Web rimossa (default_host): http://laptop-hoomlnrg:9080/
+[18/03/21 16.27.17:682 CET] 00000d5f com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [io.openliberty.sample.getting.started] [/] [io.openliberty.sample.SampleApplication]: Destroy riuscito.
+[18/03/21 16.27.17:688 CET] 00000d5f com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: Applicazione io.openliberty.sample.getting.started arrestata correttamente.
+[18/03/21 16.27.17:698 CET] 00000d5f com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Avvio dell'applicazione io.openliberty.sample.getting.started.
+[18/03/21 16.27.17:698 CET] 00000d5f bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: L'applicazione io.openliberty.sample.getting.started sta utilizzando la definizione applicazione debole all'ubicazione C:\Esperimenti\sample-getting-started\target\liberty\wlp\usr\servers\sampleAppServer\apps\io.openliberty.sample.getting.started.war.xml.
+[18/03/21 16.27.18:029 CET] 00000d5f com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: caricamento del modulo web in corso: Liberty Project.
+[18/03/21 16.27.18:029 CET] 00000d5f com.ibm.ws.webcontainer                                      I SRVE0250I: Il modulo Web Liberty Project è stato collegato a default_host.
+[18/03/21 16.27.18:029 CET] 00000d5f com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Applicazione Web disponibile (default_host): http://laptop-hoomlnrg:9080/
+[18/03/21 16.27.18:031 CET] 00000d5c com.ibm.ws.session.WASSessionCore                            I SESN0176I: Verrà creato un nuovo contesto di sessione per la chiave dell'applicazione default_host/
+[18/03/21 16.27.18:031 CET] 00000d5c com.ibm.ws.util                                              I SESN0172I: Il gestore sessione utilizza l'implementazione SecureRandom predefinita Java per la generazione dell'ID sessione.
+[18/03/21 16.27.18:039 CET] 00000d5c com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: L'applicazione io.openliberty.sample.getting.started è stata aggiornata in 0,341 secondi.
+[18/03/21 16.27.19:215 CET] 00000d4e com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Applicazione Web rimossa (default_host): http://laptop-hoomlnrg:9080/
+[18/03/21 16.27.19:221 CET] 00000d4e com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: Applicazione io.openliberty.sample.getting.started arrestata correttamente.
+[18/03/21 16.27.19:225 CET] 00000d4e com.ibm.ws.app.manager.AppMessageHelper                      I CWWKZ0018I: Avvio dell'applicazione io.openliberty.sample.getting.started.
+[18/03/21 16.27.19:225 CET] 00000d4e bm.ws.app.manager.war.internal.WARDeployedAppInfoFactoryImpl I CWWKZ0134I: L'applicazione io.openliberty.sample.getting.started sta utilizzando la definizione applicazione debole all'ubicazione C:\Esperimenti\sample-getting-started\target\liberty\wlp\usr\servers\sampleAppServer\apps\io.openliberty.sample.getting.started.war.xml.
+[18/03/21 16.27.19:517 CET] 00000d4e com.ibm.ws.webcontainer.osgi.webapp.WebGroup                 I SRVE0169I: caricamento del modulo web in corso: Liberty Project.
+[18/03/21 16.27.19:517 CET] 00000d4e com.ibm.ws.webcontainer                                      I SRVE0250I: Il modulo Web Liberty Project è stato collegato a default_host.
+[18/03/21 16.27.19:517 CET] 00000d4e com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0016I: Applicazione Web disponibile (default_host): http://laptop-hoomlnrg:9080/
+[18/03/21 16.27.19:519 CET] 00000d70 com.ibm.ws.session.WASSessionCore                            I SESN0176I: Verrà creato un nuovo contesto di sessione per la chiave dell'applicazione default_host/
+[18/03/21 16.27.19:519 CET] 00000d70 com.ibm.ws.util                                              I SESN0172I: Il gestore sessione utilizza l'implementazione SecureRandom predefinita Java per la generazione dell'ID sessione.
+[18/03/21 16.27.19:527 CET] 00000d70 com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0003I: L'applicazione io.openliberty.sample.getting.started è stata aggiornata in 0,302 secondi.
+[18/03/21 16.27.35:300 CET] 00000013 com.ibm.ws.kernel.launch.internal.ServerCommandListener      A CWWKE0055I: Arresto del server richiesto il giovedì 18 marzo 2021 alle 16.27. Il server sampleAppServer è in fase di arresto.
+[18/03/21 16.27.35:305 CET] 00000d8e com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  A CWWKE1100I: Si attenderanno 30 secondi perché il server passi in stato quiesce.
+[18/03/21 16.27.35:460 CET] 00000cef com.ibm.ws.tcpchannel.internal.TCPChannel                    I CWWKO0220I: Il canale TCP defaultHttpEndpoint-ssl non è più in ascolto delle richieste sull'host *  (IPv6) porta 9443.
+[18/03/21 16.27.35:461 CET] 00000cef com.ibm.ws.tcpchannel.internal.TCPChannel                    I CWWKO0220I: Il canale TCP defaultHttpEndpoint non è più in ascolto delle richieste sull'host *  (IPv6) porta 9080.
+[18/03/21 16.27.35:461 CET] 00000cef com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Applicazione Web rimossa (default_host): http://laptop-hoomlnrg:9080/metrics/
+[18/03/21 16.27.35:461 CET] 00000cef com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Applicazione Web rimossa (default_host): http://laptop-hoomlnrg:9080/health/
+[18/03/21 16.27.35:461 CET] 00000cef com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Applicazione Web rimossa (default_host): http://laptop-hoomlnrg:9080/
+[18/03/21 16.27.35:461 CET] 00000cef com.ibm.ws.http.internal.VirtualHostImpl                     A CWWKT0017I: Applicazione Web rimossa (default_host): http://laptop-hoomlnrg:9080/ibm/api/
+[18/03/21 16.27.36:476 CET] 00000d8e com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  I CWWKE1101I: Esecuzione del quiesce del server completata.
+[18/03/21 16.27.36:569 CET] 00000d6d com.ibm.ws.app.manager.AppMessageHelper                      A CWWKZ0009I: Applicazione io.openliberty.sample.getting.started arrestata correttamente.
+[18/03/21 16.27.36:579 CET] 00000d8e com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [com.ibm.ws.microprofile.metrics.public] [/metrics] [PublicMetricsRESTProxyServlet]: Destroy riuscito.
+[18/03/21 16.27.36:583 CET] 00000d8e com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [com.ibm.ws.microprofile.health.2.0] [/health] [HealthCheckReadinessServlet]: Destroy riuscito.
+[18/03/21 16.27.36:583 CET] 00000d8e com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [com.ibm.ws.microprofile.health.2.0] [/health] [HealthCheckLivenessServlet]: Destroy riuscito.
+[18/03/21 16.27.36:583 CET] 00000d8e com.ibm.ws.webcontainer.servlet                              I SRVE0253I: [com.ibm.ws.microprofile.health.2.0] [/health] [HealthCheckServlet]: Destroy riuscito.
+[18/03/21 16.27.37:523 CET] 00000d8e om.ibm.ws.microprofile.metrics.monitor.MonitorMetricsHandler I CWPMI2004I: Tutte le metriche di monitoraggio sono state deregistrate da mpMetrics.
+[18/03/21 16.27.38:115 CET] 00000d8e com.ibm.ws.security.ready.internal.SecurityReadyServiceImpl  I CWWKS0009I: Il servizio di sicurezza è stato arrestato.
+[18/03/21 16.27.38:490 CET] 00000d8e ibm.ws.security.authentication.internal.jaas.JAASServiceImpl I CWWKS1124I: Il plug-in di autenticazione collective con il nome classe NullCollectiveAuthenticationPlugin è stato disattivato. 
+[18/03/21 16.27.45:408 CET] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0036I: Il server sampleAppServer è stato arrestato dopo 2 ore, 13 minuti, 59,542 secondi.
